@@ -13,15 +13,24 @@
 
 # COMPLETAR
 # CAPTURA CON LA COMPROBACIÓN DE LA CREACIÓN DE LAS VARIABLES DE ENTORNO DEL CONTENEDOR ANTERIOR
-![image alt](https://github.com/Estefano2001/2026A-ISWD633-practica1/blob/9deb1db279f90890069e2994a3fbf4abaadc39a7/Lista.jpeg)
+![image alt](https://github.com/Estefano2001/2026A-ISWD633-practica2/blob/792f4106f7b5030b145272bd64d86331e49e4c6b/variables%20de%20entorno.jpeg)
 
 ### Crear un contenedor con la imagen de mysql, mapear todos los puertos
 # COMPLETAR
-
+```
+  docker run -d --name srv-mysql mysql -P
+```
 ### ¿El contenedor se está ejecutando?
+
+#### No se esta ejecutando 
 # COMPLETAR
 
 ### Identificar el problema
+
+#### Ingresamos el comando, docker logs srv-mysql, con esto identificamos el problema con el contenedor. Necesitamos especificar al menos una de estas variables de entorno: 
+- MYSQL_ROOT_PASSWORD
+- MYSQL_ALLOW_EMPTY_PASSWORD
+- MYSQL_RANDOM_ROOT_PASSWORD
 # COMPLETAR
 
 ### Para crear un contenedor con variables de entorno especificadas
@@ -32,4 +41,6 @@
 - Control de Acceso: Los archivos de variables de entorno pueden ser gestionados con permisos específicos, limitando quién puede ver o modificar la configuración sensible.
 
 ### ¿Qué bases de datos existen en el contenedor creado?
+![image alt](https://github.com/Estefano2001/2026A-ISWD633-practica2/blob/792f4106f7b5030b145272bd64d86331e49e4c6b/variables%20de%20entorno.jpeg)
+
 # COMPLETAR
