@@ -21,31 +21,31 @@ docker network create red1 -d bridge
 ### Crear un contenedor vinculado a una red
 
 ```
-docker run -d --name <nombre contenedor> --network <nombre red> <nombre imagen>
+docker run -d --name contenedor1 --network net-curso01 nginx:alpine
 ```
 
 ### Para saber a qué red está conectado un contenedor
 
 ```
-docker inspect <nombre contenedor>
+docker inspect contenedor1
 ```
 
 ó
 
 ```
-docker network inspect <nombre red> 
+docker network inspect net-curso01 
 ```
 
 ### Vincular contenedor a una red
 
 ```
-docker network connect <nombre red> <nombre contenedor>
+docker network connect net-curso01 contenedor1
 ```
 
 ### Para desvincular un contenedor de una red
 
 ```
-docker network disconnect <nombre red> <nombre contenedor>
+docker network disconnect net-curso01 contenedor1
 ```
 
 ### Para listar las redes existentes
@@ -66,6 +66,6 @@ docker network ls
 ### Para eliminar las redes creadas
 
 ```
-docker network rm <nombre de la red>
+docker network rm net-curso01 
 ```
 
