@@ -29,4 +29,4 @@ La figura presenta el esquema creado en donde los puertos son:
 # COMPLETAR
 ### Realizar un select *from personas
 # AGREGAR UNA CAPTURA DE PANTALLA DEL RESULTADO
-![image alt](https://github.com/Estefano2001/2026A-ISWD633-practica1/blob/9deb1db279f90890069e2994a3fbf4abaadc39a7/Lista.jpeg)
+![image alt](https://github.com/Estefano2001/2026A-ISWD633-practica2/blob/28061b0fe6a78f431830bb6b4f227c0f07c4b3e9/comprobacion.jpeg)
