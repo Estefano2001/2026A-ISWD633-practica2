@@ -22,7 +22,7 @@ La figura presenta el esquema creado en donde los puertos son:
 ![image alt](https://github.com/Estefano2001/2026A-ISWD633-practica2/blob/3c8ea673364cf2aa0e561c8a5deab9e771dc1a98/pgadmin.jpeg)
 ![image alt](https://github.com/Estefano2001/2026A-ISWD633-practica2/blob/164a908b2072b4c49765406ae505d008db9fadd5/entradapgadmin.jpeg)
 ### Crear la base de datos info, y dentro de esa base la tabla personas, con id (serial) y nombre (varchar), agregar un par de registros en la tabla, obligatorio incluir su nombre.
-![image alt](https://github.com/Estefano2001/2026A-ISWD633-practica2/blob/3c8ea673364cf2aa0e561c8a5deab9e771dc1a98/pgadmin.jpeg)
+![image alt](https://github.com/Estefano2001/2026A-ISWD633-practica2/blob/eafebd2eeaaadeb58a73b6ecc671ac89d06e91b5/creadadatabase.jpeg)
 ## Desde el servidor postgresl
 ### Acceder al servidor
 ### Conectarse a la base de datos info
