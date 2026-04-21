@@ -38,4 +38,4 @@ recordar que a es el puerto que usó para el mapeo con wordpress
 
 #### El contenido del sitio web se mantiene, ya que los datos se almacenan en el contenedor de MySQL. WordPress solo actúa como interfaz, mientras que la base de datos persiste en el contenedor de MySQL dentro de la red net-wp.
 # COMPLETAR
-![image alt](https://github.com/Estefano2001/2026A-ISWD633-practica1/blob/9deb1db279f90890069e2994a3fbf4abaadc39a7/Lista.jpeg)
+![image alt](https://github.com/Estefano2001/2026A-ISWD633-practica2/blob/d474384686a3742feb9670652c1079df94851fde/despuesdeeliminar.jpeg)
