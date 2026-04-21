@@ -15,7 +15,7 @@ Las redes son un componente fundamental que permite la comunicación entre conte
 ### Crear una red de tipo bridge
 
 ```
-docker network create <nombre red> -d bridge
+docker network create red1 -d bridge
 ```
 
 ### Crear un contenedor vinculado a una red
@@ -59,9 +59,10 @@ docker network ls
 ![Imagen](esquema-ejercicio-redes.PNG)
 
 # COLOCAR UNA CAPTURA DE LAS REDES EXISTENTES CREADAS
+![image alt](https://github.com/Estefano2001/2026A-ISWD633-practica1/blob/9deb1db279f90890069e2994a3fbf4abaadc39a7/Lista.jpeg)
 
 # COLOCAR UNA(S) CAPTURAS(S) DE LOS CONTENEDORES CREADOS EN DONDE SE EVIDENCIE A QUÉ RED ESTÁN VINCULADOS
-
+![image alt](https://github.com/Estefano2001/2026A-ISWD633-practica1/blob/9deb1db279f90890069e2994a3fbf4abaadc39a7/Lista.jpeg)
 ### Para eliminar las redes creadas
 
 ```
