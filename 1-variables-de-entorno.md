@@ -41,6 +41,6 @@
 - Control de Acceso: Los archivos de variables de entorno pueden ser gestionados con permisos específicos, limitando quién puede ver o modificar la configuración sensible.
 
 ### ¿Qué bases de datos existen en el contenedor creado?
-![image alt](https://github.com/Estefano2001/2026A-ISWD633-practica2/blob/792f4106f7b5030b145272bd64d86331e49e4c6b/variables%20de%20entorno.jpeg)
+![image alt](https://github.com/Estefano2001/2026A-ISWD633-practica2/blob/6779e1c02f1d80f59c55fe045a311a090bb1078f/databases.jpeg)
 
 # COMPLETAR
